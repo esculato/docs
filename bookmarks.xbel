@@ -194,9 +194,6 @@
   <bookmark href="https://www.data-to-viz.com/" id="64">
     <title>From data to Viz | Find the graphic you need</title>
   </bookmark>
-  <bookmark href="https://www.kaggle.com/" id="65">
-    <title> Kaggle</title>
-  </bookmark>
   <bookmark href="https://pythontutor.com/" id="66">
     <title>Python Tutor - Python Online Compiler with Visual AI Help</title>
   </bookmark>
@@ -208,6 +205,9 @@
   </bookmark>
   <bookmark href="https://books.goalkicker.com/PythonBook/" id="69">
     <title>Free Python Programming Book</title>
+  </bookmark>
+  <bookmark href="https://www.kaggle.com/" id="65">
+    <title>Kaggle</title>
   </bookmark>
 </folder>
 <folder id="70">
