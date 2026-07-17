@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :82: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>ATO AI</title>
+  <bookmark href="https://generativeai-playground.internal.ericsson.com/" id="6">
+    <title>https://generativeai-playground.internal.ericsson.com/</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/Copilot.aspx" id="7">
+    <title>Copilot</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/Copilot-for-Microsoft-365.aspx?xsdata=MDV8MDJ8fGM0OTEwNDI4NjU1ZDQ0NzlhZDZmMDhkZGIyMzUyY2MxfDkyZTg0Y2ViZmJmZDQ3YWJiZTUyMDgwYzZiODc5NTNmfDB8MHw2Mzg4NjI2NjM2MTAzNzk2MzF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmVG0xWk0wNXRWbXBaVkZsMFRtMUdhRTVUTURCWmVtY3lURlJvYUZwcVdYUk9hbEpzVFZSb2FFOVVWVE5OUkVFd1FIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOelV3TmpZNU5UWXdOVGt4fGQ2NmI0MjUyMTlkZjRiNmE0YjA1MDhkZGIyMzUyY2JmfDAxOWM4MWZjYTFjZDQ3YzY4M2ZmOWRiNzMzODc1NzRl&amp;sdata=Qjl6TEdheVdVSENOR2pMbkJVaFNDb2VNNTF6R3lwS2JJK0FZa2VBUS9kVT0%3D&amp;ovuser=92e84ceb-fbfd-47ab-be52-080c6b87953f%2Cmarc.meex%40ericsson.com&amp;OR=Teams-HL&amp;CT=1750669606420&amp;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTA2MDIwNjYxMiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D#copilot-in-microsoft-word" id="8">
+    <title>Copilot for Microsoft 365</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/GenerativeAIforOperations?xsdata=MDV8MDJ8bXVzaGFyYWYua2hhbi5leHRAZXJpY3Nzb24uY29tfGQxM2U1YjgzYmI1MzRmMmE4OGU4MDhkZDQ2NmUyNmM5fDkyZTg0Y2ViZmJmZDQ3YWJiZTUyMDgwYzZiODc5NTNmfDB8MHw2Mzg3NDQxNjEwOTI3NTY2OTh8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYYVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&amp;sdata=K2lFeWovZERTMlBzemQydmRTS0s2djR1WnoyMGZxd3htenJHZHF3YVFZRT0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTgzMjQuMjAxOTQiLCAiT1MiIDogIldpbmRvd3MiIH0%3d&amp;SafelinksUrl=https%3a%2f%2fericsson.sharepoint.com%2fsites%2fGenerativeAIforOperations" id="9">
+    <title>Home</title>
+  </bookmark>
+  <bookmark href="https://atopredict-mimir-europe.internal.ericsson.com/mimir/" id="10">
+    <title>ATO Predict 2.0 Mimir</title>
+  </bookmark>
+  <bookmark href="https://eteamspace.ericsson.net/pages/viewpage.action?pageId=103751915" id="11">
+    <title>MELA Automation &amp; Transformation Office Home - MELA Automation Transformation Office - eTeamSpace</title>
+  </bookmark>
+  <bookmark href="https://make.powerautomate.com/environments/Default-92e84ceb-fbfd-47ab-be52-080c6b87953f/home" id="12">
+    <title>Microsoft Power Automate</title>
+  </bookmark>
+  <bookmark href="https://everyday-assistant.ericsson.net/login" id="13">
+    <title>Sign in | Glean</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>EriSite</title>
+  <bookmark href="https://emea.erisite.ericsson.net/emea1/html/en/default/platform/mainpage/mainpage.jsp" id="14">
+    <title>EriSite EMEA Classic</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/SANToolsDeploymentSupport/EriSite" id="15">
+    <title>EriSite - SAN Tools Deployment Support Portal</title>
+  </bookmark>
+  <bookmark href="https://cx.nro.ericsson.net/my-functions" id="16">
+    <title>Connected X</title>
+  </bookmark>
+  <bookmark href="https://emea.erisite.ericsson.net/emea1/pwa" id="17">
+    <title>EriSite</title>
+  </bookmark>
+  <bookmark href="https://emea.erisite.ericsson.net/BOE/BI" id="18">
+    <title>BI launch pad</title>
+  </bookmark>
+  <bookmark href="https://development.erisite.ericsson.net/" id="19">
+    <title>EriSite Development</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>health</title>
+  <bookmark href="http://www.ericsson.com/thecompany/sustainability-corporateresponsibility/conducting-business-responsibly/radio-waves-and-health" id="20">
+    <title>Radio waves and health - Ericsson</title>
+  </bookmark>
+  <bookmark href="https://internal.ericsson.com/book/20126/emf-and-health" id="21">
+    <title>EMF and health - Internal</title>
+  </bookmark>
+  <bookmark href="http://mmfai.org/" id="22">
+    <title>Mobile Manufacturers Forum</title>
+  </bookmark>
+  <bookmark href="http://www.emfexplained.info/" id="23">
+    <title>EMF Explained Series</title>
+  </bookmark>
+  <bookmark href="http://www.who.int/peh-emf/en/" id="24">
+    <title>WHO | World Health Organization</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>DDD</title>
+  <bookmark href="https://eteamproject.internal.ericsson.com/secure/Dashboard.jspa" id="25">
+    <title>System Dashboard - eTeamProject (Jira)</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>ST</title>
+  <bookmark href="https://cpistore.internal.ericsson.com/" id="26">
+    <title>CPI Store</title>
+  </bookmark>
+  <bookmark href="https://uat.connected-operations.ericsson.net/getting-started" id="27">
+    <title>ECO Web (UAT)</title>
+  </bookmark>
+  <bookmark href="https://acc.siterollout.ericsson.net/site-projects" id="28">
+    <title>ESR</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/ID-WesternEurope235" id="29">
+    <title>ID - Western Europe - Home</title>
+  </bookmark>
+  <bookmark href="https://ericssonnam.sharepoint.com/sites/IntelligentDeploymentDataGovernance2?web=1&amp;xsdata=MDV8MDJ8bWFyYy5tZWV4QGVyaWNzc29uLmNvbXxmNjUxMDMzOGFhNGE0ZDA2NDkxNDA4ZGQ2Yjk5YzI1ZXw5MmU4NGNlYmZiZmQ0N2FiYmU1MjA4MGM2Yjg3OTUzZnwwfDB8NjM4Nzg1MDMwMzEzNDYzODQ2fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=bmxrOHA5SEF6SlhoMHNET1lRbEtDd2lqUXJURS9Obmd5MGZZb29QRHZBaz0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTc5MjguMjA0NjgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D" id="30">
+    <title>Intelligent Deployment Data Governance Site - Home</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/IntelligentDeploymentVFZ" id="31">
+    <title>Intelligent Deployment VFZ - Home</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4027EBDF-4D35-4C82-9639-B0EF5652BDE0%7D&amp;file=Issue%20List.xlsx&amp;action=default&amp;mobileredirect=true" id="32">
+    <title>Issue List.xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/B2Bglobalframeworkportfolio/Shared%20Documents/Forms/AllItems.aspx?e=5%3A3656e63c199745daba63c8df9e77fa70&amp;sharingv2=true&amp;fromShare=true&amp;at=9&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg2MjMuMjAyNjYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&amp;CID=58c9a4a1%2D004f%2Dc000%2Dedd3%2D919c2a09135d&amp;cidOR=SPO&amp;FolderCTID=0x01200064420D5A43AE214880A4F566615EFC5D&amp;id=%2Fsites%2FB2Bglobalframeworkportfolio%2FShared%20Documents%2FGeneral%2FID%20B2B%20Swimlane%2FID%20B2B%20%2D%20Projects%2FID%20B2B%20%2D%20EMEA%20%2D%20Netherlands%20Vodafone%20Ziggo%20%20%2D%20Sitetracker" id="33">
+    <title>SAN B2B global framework portfolio - Documents</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;wdLOR=cB7191A62-C0F2-437D-9F36-8EC40084A1FD&amp;action=default&amp;mobileredirect=true" id="34">
+    <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BCD5BAE48-109B-4D5C-B366-EACF41F0AA82%7D&amp;file=SiteTracker%20structuring.xlsx&amp;wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;action=default&amp;mobileredirect=true" id="35">
+    <title>SiteTracker structuring.xlsx</title>
+  </bookmark>
+  <bookmark href="https://sitetracker-ericssonglobal-eu01--eufull.sandbox.my.site.com/s/login/?ec=302&amp;startURL=%2Fs%2F" id="36">
+    <title>ST /// Customer portal ASP</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BC623901C-E252-4218-8D52-3E9975A051C1%7D&amp;file=ToDo%20list.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="37">
+    <title>ToDo list.xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BEEE0FC37-C613-4CDA-BBA7-50AE14C76001%7D&amp;file=List%20of%20Standard%20Global%20Planning%20Object%20(Sitetracker)%20(5).xlsx&amp;wdLOR=c1901B94F-3D38-4A8F-9BC9-876D2186CFD3&amp;action=default&amp;mobileredirect=true" id="38">
+    <title>List of Standard Global Planning Object (Sitetracker) (5).xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4B729FE5-A621-40EE-A02C-352092EC67EE%7D&amp;file=Pilot%20Findings.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=1A43DCE0-1A46-4881-B0ED-27464CFF68AF&amp;wdLOR=cB272C8D3-4F7F-4653-9841-2E7D2E7CF935" id="39">
+    <title>Pilot Findings</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="40">
+    <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
+  </bookmark>
+  <bookmark href="https://connected-operations.ericsson.net/getting-started" id="41">
+    <title>ECO Web</title>
+  </bookmark>
+</folder>
+<bookmark href="https://ericoll.internal.ericsson.com/sites/VFE_Spring/Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FVFE%5FSpring%2FDocuments%2F02%2E%20Project%20Preparation%20Stage%2F10%2E%20Process%20Management&amp;FolderCTID=0x012000B61AE097565D734BB4994CCA318BB7C6&amp;View=%7bD5E77762-4CE5-4C14-B599-DE86C9A66972%7d" id="42">
+  <title>10. Process Management - All Documents</title>
+</bookmark>
+<bookmark href="http://3g4g.blogspot.nl/" id="43">
+  <title>3G and 4G Wireless Blog</title>
+</bookmark>
+<bookmark href="https://i-acc.ericsson.se/" id="44">
+  <title>Administratie tool drives</title>
+</bookmark>
+<bookmark href="https://online.adp.nl/light.xml" id="45">
+  <title>ADP Online Light</title>
+</bookmark>
+<bookmark href="http://www.antennebureau.nl/" id="46">
+  <title>Antennebureau</title>
+</bookmark>
+<bookmark href="https://atopredict-mimir-europe.internal.ericsson.com/" id="47">
+  <title>ATO Predict - MIMIR</title>
+</bookmark>
+<bookmark href="http://www.bomengids.nl/bosbomen.html" id="48">
+  <title>Bos sleutel: welke bomen tref je in het bos? Bomen herkennen op deze bomen site, recognizing Dutch trees</title>
+</bookmark>
+<bookmark href="https://citrix.nl.nmc.ericsson.se/Citrix/XenApp/auth/login.aspx" id="49">
+  <title>Citrix</title>
+</bookmark>
+<bookmark href="https://ericsson.sharepoint.com/sites/DigitalWorkspace/SitePages/Collaboration-Story.aspx" id="50">
+  <title>Digital Workspace Portal</title>
+</bookmark>
+<bookmark href="https://diss.internal.ericsson.com/Profile/" id="51">
+  <title>Directory Information Self Service - Directory Self Service Tool</title>
+</bookmark>
+<bookmark href="https://app.docusign.com/home" id="52">
+  <title>DocuSign</title>
+</bookmark>
+<bookmark href="https://fop.enn.ericsson.net/login.aspx" id="53">
+  <title>ENN Field Operations Portal</title>
+</bookmark>
+<bookmark href="https://ericoll.internal.ericsson.com/Pages/default.aspx#100" id="54">
+  <title>EriCOLL</title>
+</bookmark>
+<bookmark href="https://cve.trust.telia.com/ericsson/ericsson/loginauto.aspx" id="55">
+  <title>Ericsson Certificate Administration</title>
+</bookmark>
+<bookmark href="http://enlrymw203/ericom/index.asp" id="56">
+  <title>Ericsson Communication Assistant</title>
+</bookmark>
+<bookmark href="https://eridoc.ericsson.se/eridoc/component/main?__dmfClientId=1416998651746&amp;__dmfTzoff=-60" id="57">
+  <title>EriDoc</title>
+</bookmark>
+<bookmark href="https://aannemers.kpn.com/servlet/f60servlet?config=prod" id="58">
+  <title>Gamma NetOne - KPN Production</title>
+</bookmark>
+<bookmark href="https://gordon-web.ericsson.se/index.jsp" id="59">
+  <title>Gordon</title>
+</bookmark>
+<bookmark href="https://ericoll.internal.ericsson.com/sites/Health_and_Safety_Ericsson_Netherlands/Pages/home.aspx" id="60">
+  <title>Health and Safety Ericsson Netherlands (BHV)</title>
+</bookmark>
+<bookmark href="http://hpstatus.ericsson.se/pm-index.php" id="61">
+  <title>High Severity Incident Status</title>
+</bookmark>
+<bookmark href="https://eteamspace.ericsson.net/display/ATO/Mimir+-+User+Guide#MimirUserGuide-WebSearchandOpenLinks" id="62">
+  <title>https://eteamspace.ericsson.net/display/ATO/Mimir+-+User+Guide#MimirUserGuide-WebSearchandOpenLinks</title>
+</bookmark>
+<bookmark href="https://ericoll.internal.ericsson.com/sites/Acces_Projects_ENN/BSC%20AP/Kwadrant/default.aspx" id="63">
+  <title>IROM (Kwadrant)</title>
+</bookmark>
+<bookmark href="http://itsc.internal.ericsson.com/" id="64">
+  <title>IT Service Catalog</title>
+</bookmark>
+<bookmark href="https://mijn.kadaster.nl/security/login.jsp" id="65">
+  <title>Kadaster</title>
+</bookmark>
+<bookmark href="http://www.kvk.nl/" id="66">
+  <title>Kamer van Koophandel</title>
+</bookmark>
+<bookmark href="http://monet.openims.com/" id="67">
+  <title>monet.nl</title>
+</bookmark>
+<bookmark href="https://msdppasswordreset.se.nmc.ericsson.se/" id="68">
+  <title>MSDP PASSWORD RESET</title>
+</bookmark>
+<bookmark href="http://www.novecbv.nl/" id="69">
+  <title>NOVEC</title>
+</bookmark>
+<bookmark href="https://ericoll.internal.ericsson.com/sites/Stress_preventing_toolkit/Pages/home.aspx" id="70">
+  <title>Pages - Sustainable work- life toolkit (home)</title>
+</bookmark>
+<bookmark href="https://internal.ericsson.com/book/34601/terms-employment?unit=31169770" id="71">
+  <title>People Portal ENN - Internal</title>
+</bookmark>
+<bookmark href="http://et10.org/gc/rd.php" id="72">
+  <title>RD-&gt;WGS en WGS-&gt;RD conversie</title>
+</bookmark>
+<bookmark href="https://rvi.se.ericsson.net/dana-na/auth/url_2/welcome.cgi" id="73">
+  <title>RVI</title>
+</bookmark>
+<bookmark href="https://myaccount.ericsson.net/sa" id="74">
+  <title>Strong Authentication</title>
+</bookmark>
+<bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="75">
+  <title>Symantec VIP ID Protection Self Service Portal </title>
+</bookmark>
+<bookmark href="http://www.antenna-theory.com/" id="76">
+  <title>The Antenna Theory Website</title>
+</bookmark>
+<bookmark href="http://itsc.internal.ericsson.com/product/LXA116366#Order-installation" id="77">
+  <title>W-LAN | IT Service Catalog</title>
+</bookmark>
+<bookmark href="http://shportal/webgis/" id="78">
+  <title>WebGIS</title>
+</bookmark>
+<bookmark href="https://merlin.internal.ericsson.com/container" id="79">
+  <title>MERLIN - Skill Profile</title>
+</bookmark>
+<bookmark href="https://ericsson.eightfold.ai/careerhub" id="80">
+  <title>Home | Eightfold Career Hub</title>
+</bookmark>
+<folder id="81">
+  <title>erisite</title>
+  <bookmark href="https://development.erisite.ericsson.net/" id="82">
+    <title>EriSite Development</title>
+  </bookmark>
+</folder>
+</xbel>
