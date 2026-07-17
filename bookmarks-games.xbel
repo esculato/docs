@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :155: for Floccus bookmark sync browser extension -->
+<!--- highestId :156: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>DBT</title>
@@ -36,7 +36,7 @@
     <title>ESReality.com</title>
   </bookmark>
   <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="38">
-    <title>Diabotical | Wiki</title>
+    <title>Diabotical | Wiki </title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -425,5 +425,8 @@
 </bookmark>
 <bookmark href="http://www.trenchwars.org/" id="123">
   <title>Trenchwars</title>
+</bookmark>
+<bookmark href="https://www.heyjude.blog/posts/deploy-hugo-to-cloudflare/" id="156">
+  <title>Build a Blog with Hugo and Deploy it to Cloudflare Pages | Heyjude&apos;s Blog</title>
 </bookmark>
 </xbel>
