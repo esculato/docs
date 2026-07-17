@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :154: for Floccus bookmark sync browser extension -->
+<!--- highestId :155: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>DBT</title>
@@ -248,6 +248,9 @@
 </folder>
 <folder id="65">
   <title>Roguelikes</title>
+  <bookmark href="http://www.adomgb.info/adomgb-toc.html" id="155">
+    <title>ADOM Guidebook - Table of Contents</title>
+  </bookmark>
   <bookmark href="https://lukems.github.io/Single-file-Improved-Adom-Guidebook/#0.1" id="66">
     <title>Single-file Improved Adom Guidebook</title>
   </bookmark>
