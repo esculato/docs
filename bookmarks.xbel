@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :328: for Floccus bookmark sync browser extension -->
+<!--- highestId :342: for Floccus bookmark sync browser extension -->
 
 <folder id="222">
   <title>SNES</title>
@@ -9,6 +9,48 @@
     <title>SNES A Day</title>
   </bookmark>
 </folder>
+<bookmark href="http://www.metacritics.com/" id="329">
+  <title>Metacritic.com</title>
+</bookmark>
+<bookmark href="http://www.miwiki.net/Main_Page" id="330">
+  <title>Monkey Island wiki</title>
+</bookmark>
+<bookmark href="http://www.nfohump.com/index.php" id="331">
+  <title>NFOHump</title>
+</bookmark>
+<bookmark href="http://www.playdota.com/" id="332">
+  <title>Official DotA Website</title>
+</bookmark>
+<bookmark href="https://ql.syncore.org/" id="333">
+  <title>ql.syncore.org | Server Browser</title>
+</bookmark>
+<bookmark href="http://www.quakelive.com/#home" id="334">
+  <title>Quake Live</title>
+</bookmark>
+<bookmark href="https://www.passion4fm.com/football-manager-guide-squad-analysis/" id="335">
+  <title>Squad Analysis in Football Manager • Passion4FM</title>
+</bookmark>
+<bookmark href="http://www.mariokart64.com/smk/" id="336">
+  <title>Super Mario Kart Time Trial World Records Site</title>
+</bookmark>
+<bookmark href="http://afteractionreporter.com/2009/02/09/the-complete-and-utter-newby-tutorial-for-dwarf-fortress-part-1-wtf/" id="337">
+  <title>The Complete and Utter Newby Tutorial for Dwarf Fortress - Part 1: “WTF?” « After Action Reporter</title>
+</bookmark>
+<bookmark href="http://www.mixnmojo.com/" id="338">
+  <title>The International House of Mojo</title>
+</bookmark>
+<bookmark href="http://www.scummbar.com/" id="339">
+  <title>The Monkey Island SCUMM Bar - www.scummbar.com</title>
+</bookmark>
+<bookmark href="https://the-eye.eu/public/rom/" id="340">
+  <title>the-eye.eu /public/rom/</title>
+</bookmark>
+<bookmark href="http://www.trenchwars.org/" id="341">
+  <title>Trenchwars</title>
+</bookmark>
+<bookmark href="https://crpgaddict.blogspot.com/" id="342">
+  <title>The CRPG Addict</title>
+</bookmark>
 <bookmark href="http://forums.civfanatics.com/showthread.php?t=354019" id="224">
   <title>[BTS] Better BUG AI - Civilization Fanatics&apos; Forums</title>
 </bookmark>
@@ -69,7 +111,7 @@
     <title>Diabotical | Twitter</title>
   </bookmark>
   <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="244">
-    <title>Diabotical | Wiki </title>
+    <title>Diabotical | Wiki</title>
   </bookmark>
   <bookmark href="https://diaboticaldistrict.com/" id="245">
     <title>Diabotical District</title>
