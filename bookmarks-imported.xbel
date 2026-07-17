@@ -437,9 +437,6 @@
       </folder>
       <folder id="288">
         <title>Dionique</title>
-        <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="315">
-          <title>Implementation Service Request </title>
-        </bookmark>
         <bookmark href="https://rh.enn.ericsson.net/login" id="316">
           <title>Request Handler</title>
         </bookmark>
@@ -448,6 +445,9 @@
         </bookmark>
         <bookmark href="https://github.com/janeczku/calibre-web/wiki/Setup-Reverse-Proxy#traefik-260-example-kobo-sync-fix-enabled" id="318">
           <title>Setup Reverse Proxy · janeczku/calibre-web Wiki · GitHub</title>
+        </bookmark>
+        <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="315">
+          <title>Implementation Service Request</title>
         </bookmark>
       </folder>
       <folder id="289">
@@ -676,9 +676,6 @@
     <bookmark href="https://twitter.com/diabotical/" id="107">
       <title>Diabotical | Twitter</title>
     </bookmark>
-    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="108">
-      <title>Diabotical | Wiki </title>
-    </bookmark>
     <bookmark href="https://diaboticaldistrict.com/" id="109">
       <title>Diabotical District</title>
     </bookmark>
@@ -693,6 +690,9 @@
     </bookmark>
     <bookmark href="http://www.esreality.com/" id="240">
       <title>ESReality.com</title>
+    </bookmark>
+    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="108">
+      <title>Diabotical | Wiki</title>
     </bookmark>
   </folder>
   <folder id="20">
@@ -754,11 +754,11 @@
   </folder>
   <folder id="23">
     <title>D</title>
-    <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="129">
-      <title>Implementation Service Request </title>
-    </bookmark>
     <bookmark href="https://rh.enn.ericsson.net/login" id="130">
       <title>Request Handler</title>
+    </bookmark>
+    <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="129">
+      <title>Implementation Service Request</title>
     </bookmark>
   </folder>
   <folder id="24">
@@ -927,11 +927,11 @@
     </folder>
     <folder id="147">
       <title>Ericsson</title>
-      <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="183">
-        <title>Symantec VIP ID Protection Self Service Portal </title>
-      </bookmark>
       <bookmark href="https://internal.ericsson.com/book/34601/terms-employment?unit=31169770" id="184">
         <title>People Portal ENN - Internal</title>
+      </bookmark>
+      <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="183">
+        <title>Symantec VIP ID Protection Self Service Portal</title>
       </bookmark>
     </folder>
     <folder id="148">
@@ -2182,9 +2182,6 @@
     <bookmark href="https://twitter.com/diabotical/" id="753">
       <title>Diabotical | Twitter</title>
     </bookmark>
-    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="754">
-      <title>Diabotical | Wiki </title>
-    </bookmark>
     <bookmark href="https://diaboticaldistrict.com/" id="755">
       <title>Diabotical District</title>
     </bookmark>
@@ -2200,14 +2197,17 @@
     <bookmark href="http://www.esreality.com/" id="782">
       <title>ESReality.com</title>
     </bookmark>
+    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="754">
+      <title>Diabotical | Wiki</title>
+    </bookmark>
   </folder>
   <folder id="759">
     <title>D</title>
-    <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="764">
-      <title>Implementation Service Request </title>
-    </bookmark>
     <bookmark href="https://rh.enn.ericsson.net/login" id="765">
       <title>Request Handler</title>
+    </bookmark>
+    <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="764">
+      <title>Implementation Service Request</title>
     </bookmark>
   </folder>
   <folder id="760">
@@ -2654,9 +2654,6 @@
       </folder>
       <folder id="931">
         <title>Dionique</title>
-        <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="945">
-          <title>Implementation Service Request </title>
-        </bookmark>
         <bookmark href="https://rh.enn.ericsson.net/login" id="946">
           <title>Request Handler</title>
         </bookmark>
@@ -2665,6 +2662,9 @@
         </bookmark>
         <bookmark href="https://github.com/janeczku/calibre-web/wiki/Setup-Reverse-Proxy#traefik-260-example-kobo-sync-fix-enabled" id="948">
           <title>Setup Reverse Proxy · janeczku/calibre-web Wiki · GitHub</title>
+        </bookmark>
+        <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="945">
+          <title>Implementation Service Request</title>
         </bookmark>
       </folder>
       <folder id="932">
@@ -2959,9 +2959,6 @@
     <bookmark href="https://www.data-to-viz.com/" id="895">
       <title>From data to Viz | Find the graphic you need</title>
     </bookmark>
-    <bookmark href="https://www.kaggle.com/" id="896">
-      <title> Kaggle</title>
-    </bookmark>
     <bookmark href="https://pythontutor.com/" id="897">
       <title>Python Tutor - Python Online Compiler with Visual AI Help</title>
     </bookmark>
@@ -2973,6 +2970,9 @@
     </bookmark>
     <bookmark href="https://books.goalkicker.com/PythonBook/" id="965">
       <title>Free Python Programming Book</title>
+    </bookmark>
+    <bookmark href="https://www.kaggle.com/" id="896">
+      <title>Kaggle</title>
     </bookmark>
   </folder>
   <folder id="853">
@@ -3044,7 +3044,7 @@
       <title>Request Handler</title>
     </bookmark>
     <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="918">
-      <title>Implementation Service Request </title>
+      <title>Implementation Service Request</title>
     </bookmark>
   </folder>
   <folder id="856">
@@ -3064,9 +3064,6 @@
     <bookmark href="https://twitter.com/diabotical/" id="923">
       <title>Diabotical | Twitter</title>
     </bookmark>
-    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="924">
-      <title>Diabotical | Wiki </title>
-    </bookmark>
     <bookmark href="https://diaboticaldistrict.com/" id="925">
       <title>Diabotical District</title>
     </bookmark>
@@ -3082,6 +3079,9 @@
     <bookmark href="http://www.esreality.com/" id="966">
       <title>ESReality.com</title>
     </bookmark>
+    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="924">
+      <title>Diabotical | Wiki</title>
+    </bookmark>
   </folder>
   <folder id="857">
     <title>DDD</title>
@@ -3091,11 +3091,11 @@
   </folder>
   <folder id="985">
     <title>Ericsson</title>
-    <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="991">
-      <title>Symantec VIP ID Protection Self Service Portal </title>
-    </bookmark>
     <bookmark href="https://internal.ericsson.com/book/34601/terms-employment?unit=31169770" id="992">
       <title>People Portal ENN - Internal</title>
+    </bookmark>
+    <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="991">
+      <title>Symantec VIP ID Protection Self Service Portal</title>
     </bookmark>
   </folder>
   <folder id="986">
@@ -4450,9 +4450,6 @@
     <bookmark href="https://www.goodreads.com/work/editions/6760952" id="1635">
       <title>Goodreads | Editions of Under the Dome by Stephen King</title>
     </bookmark>
-    <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="1636">
-      <title>PRS NRO Services </title>
-    </bookmark>
     <bookmark href="http://spielverlagerung.com/" id="1661">
       <title>Spielverlagerung.com | German football analysis - in English!</title>
     </bookmark>
@@ -4540,6 +4537,9 @@
         <title>BoardGameGeek | Gaming Unplugged Since 2000</title>
       </bookmark>
     </folder>
+    <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="1636">
+      <title>PRS NRO Services</title>
+    </bookmark>
   </folder>
   <folder id="1148">
     <title>Imported from Firefox</title>
@@ -4644,11 +4644,11 @@
     </folder>
     <folder id="1167">
       <title>Ericsson</title>
-      <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="1254">
-        <title>Symantec VIP ID Protection Self Service Portal </title>
-      </bookmark>
       <bookmark href="https://internal.ericsson.com/book/34601/terms-employment?unit=31169770" id="1255">
         <title>People Portal ENN - Internal</title>
+      </bookmark>
+      <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="1254">
+        <title>Symantec VIP ID Protection Self Service Portal</title>
       </bookmark>
     </folder>
     <folder id="1168">
@@ -5228,9 +5228,6 @@
   <bookmark href="https://www.goodreads.com/work/editions/6760952" id="1723">
     <title>Goodreads | Editions of Under the Dome by Stephen King</title>
   </bookmark>
-  <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="1724">
-    <title>PRS NRO Services </title>
-  </bookmark>
   <bookmark href="http://spielverlagerung.com/" id="1735">
     <title>Spielverlagerung.com | German football analysis - in English!</title>
   </bookmark>
@@ -5270,6 +5267,9 @@
   <folder id="1749">
     <title>C26</title>
   </folder>
+  <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="1724">
+    <title>PRS NRO Services</title>
+  </bookmark>
 </folder>
 <folder id="1757">
   <title>Bookmarks Menu</title>
@@ -5282,9 +5282,6 @@
   <bookmark href="https://www.goodreads.com/work/editions/6760952" id="1760">
     <title>Goodreads | Editions of Under the Dome by Stephen King</title>
   </bookmark>
-  <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="1761">
-    <title>PRS NRO Services </title>
-  </bookmark>
   <bookmark href="https://www.smarthomebeginner.com/traefik-2-docker-tutorial/" id="1762">
     <title>Ultimate Docker Home Server with Traefik 2, LE, and OAuth / Authelia [2020]</title>
   </bookmark>
@@ -5296,6 +5293,9 @@
   </bookmark>
   <bookmark href="http://htwins.net/scale2/" id="1765">
     <title>The Scale of the Universe 2</title>
+  </bookmark>
+  <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="1761">
+    <title>PRS NRO Services</title>
   </bookmark>
 </folder>
 <folder id="1766">
