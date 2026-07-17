@@ -1,12 +1,327 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :223: for Floccus bookmark sync browser extension -->
+<!--- highestId :328: for Floccus bookmark sync browser extension -->
 
 <folder id="222">
   <title>SNES</title>
   <bookmark href="http://snesaday.com/" id="223">
     <title>SNES A Day</title>
+  </bookmark>
+</folder>
+<bookmark href="http://forums.civfanatics.com/showthread.php?t=354019" id="224">
+  <title>[BTS] Better BUG AI - Civilization Fanatics&apos; Forums</title>
+</bookmark>
+<bookmark href="http://dragonage.gulbsoft.org/doku.php" id="225">
+  <title>Dragon Age: Origins - The Missing Manual &gt;&gt; Welcome</title>
+</bookmark>
+<bookmark href="http://www.f1time.com/" id="226">
+  <title>F1TIME.COM - Free Formula 1 Management Game</title>
+</bookmark>
+<bookmark href="https://fmpr0.com/" id="227">
+  <title>FM 2020 Updates by Pr0</title>
+</bookmark>
+<bookmark href="http://community_gamesection.online-urbanus.be/" id="228">
+  <title>Game Section Community Forums</title>
+</bookmark>
+<bookmark href="http://www.guildwarsguru.com/" id="229">
+  <title>Guild Wars Guru</title>
+</bookmark>
+<bookmark href="http://www.guildwars.net/" id="230">
+  <title>GuildWars.com</title>
+</bookmark>
+<bookmark href="http://216.86.149.248/wiki/Main_Page" id="231">
+  <title>GuildWiki</title>
+</bookmark>
+<bookmark href="http://www.ibpdownloads.com/" id="232">
+  <title>ibpArcade Downloads</title>
+</bookmark>
+<bookmark href="http://www.ircnet.ee/nethack/MAG-r343.html" id="233">
+  <title>Maniac&amp;#39;s Ascension Guide</title>
+</bookmark>
+<bookmark href="http://mayday.w.staszic.waw.pl/index.htm" id="234">
+  <title>May Green</title>
+</bookmark>
+<bookmark href="https://rpgcodex.net/" id="235">
+  <title>rpg codex &gt; doesn&apos;t scale to your level</title>
+</bookmark>
+<bookmark href="https://crpgrevisited.blogspot.com/" id="236">
+  <title>CRPG Revisiting old classics</title>
+</bookmark>
+<bookmark href="https://crpgadventures.blogspot.com/" id="237">
+  <title>CRPG Adventures</title>
+</bookmark>
+<folder id="238">
+  <title>DBT</title>
+  <bookmark href="https://www.diabotical.com/" id="239">
+    <title>Diabotical.com</title>
+  </bookmark>
+  <bookmark href="https://www.kickstarter.com/projects/84288219/diabotical-by-the-gd-studio/description" id="240">
+    <title>Diabotical | Kickstarter</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/Diabotical/" id="241">
+    <title>Diabotical | Reddit</title>
+  </bookmark>
+  <bookmark href="https://trello.com/b/0AfjvyGH/diabotical" id="242">
+    <title>Diabotical | Trello</title>
+  </bookmark>
+  <bookmark href="https://twitter.com/diabotical/" id="243">
+    <title>Diabotical | Twitter</title>
+  </bookmark>
+  <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="244">
+    <title>Diabotical | Wiki </title>
+  </bookmark>
+  <bookmark href="https://diaboticaldistrict.com/" id="245">
+    <title>Diabotical District</title>
+  </bookmark>
+  <bookmark href="https://www.twitch.tv/thegdstudio/" id="246">
+    <title>The GD Studio | Twitch</title>
+  </bookmark>
+  <bookmark href="https://eggdevil.gg/" id="247">
+    <title>eggdevil.com | HUDS, configs, media, etc</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/TheGDStudio" id="248">
+    <title>The GD Studio | YouTube</title>
+  </bookmark>
+  <bookmark href="http://www.esreality.com/" id="249">
+    <title>ESReality.com</title>
+  </bookmark>
+</folder>
+<folder id="250">
+  <title>Dwarf Fortress</title>
+  <bookmark href="http://dwarf.lendemaindeveille.com/index.php/Main_Page" id="254">
+    <title>DF Wiki</title>
+  </bookmark>
+  <bookmark href="http://dffd.wimbli.com/index.php" id="255">
+    <title>DF File Depot</title>
+  </bookmark>
+  <bookmark href="http://mayday.w.staszic.waw.pl/index.htm" id="256">
+    <title>May Green</title>
+  </bookmark>
+  <bookmark href="http://afteractionreporter.com/2009/02/09/the-complete-and-utter-newby-tutorial-for-dwarf-fortress-part-1-wtf/" id="257">
+    <title>The Complete and Utter Newby Tutorial for Dwarf Fortress - Part 1: “WTF?” « After Action Reporter</title>
+  </bookmark>
+  <bookmark href="http://dffd.wimbli.com/" id="258">
+    <title>Dwarf Fortress File Depot</title>
+  </bookmark>
+  <bookmark href="http://code.google.com/p/dwarftherapist/" id="259">
+    <title>dwarftherapist</title>
+  </bookmark>
+</folder>
+<folder id="251">
+  <title>eso</title>
+  <bookmark href="https://alcasthq.com/eso-magicka-dragonknight-healer-build-pve/" id="260">
+    <title>Dragonknight Healer Build PvE for Elder Scrolls Online - AlcastHQ</title>
+  </bookmark>
+  <bookmark href="https://alcasthq.com/eso-stamina-dragonknight-build-pve/" id="261">
+    <title>Stamina Dragonknight Build PvE for Elder Scrolls Online - AlcastHQ</title>
+  </bookmark>
+  <bookmark href="http://deltiasgaming.com/eso-templar-healer/" id="262">
+    <title>ESO Templar Healer - Deltia&apos;s Gaming</title>
+  </bookmark>
+  <bookmark href="http://deltiasgaming.com/eso-magic-templar-dps-build/#Leveling" id="263">
+    <title>ESO Magic Templar DPS Build - Deltia&apos;s Gaming</title>
+  </bookmark>
+  <bookmark href="https://alcasthq.com/eso-magicka-templar-healer-build-pve/" id="264">
+    <title>Templar Healer Build PvE for Elder Scrolls Online - AlcastHQ</title>
+  </bookmark>
+</folder>
+<folder id="252">
+  <title>Football Manager</title>
+  <bookmark href="https://maddfm.com/" id="265">
+    <title>MaddFM Blog</title>
+  </bookmark>
+</folder>
+<folder id="253">
+  <title>Hattrick</title>
+  <bookmark href="http://alltid.org/" id="266">
+    <title>Alltid Hattrick</title>
+  </bookmark>
+  <bookmark href="https://www.hattrick.org/" id="267">
+    <title>Hattrick</title>
+  </bookmark>
+  <bookmark href="http://www.hattrickbuddy.de/" id="268">
+    <title>Hattrick Buddy</title>
+  </bookmark>
+  <bookmark href="http://www.torkiljohnsen.com/hattrick/" id="269">
+    <title>Hattrick Hub</title>
+  </bookmark>
+  <bookmark href="http://www.hattrickinfo.com/en/" id="270">
+    <title>Hattrick Infocentre -</title>
+  </bookmark>
+  <bookmark href="http://www.hattrickorganizer.net/" id="271">
+    <title>Hattrick Organizer</title>
+  </bookmark>
+  <bookmark href="https://github.com/ho-dev/HattrickOrganizer" id="272">
+    <title>Hattrick Organizer</title>
+  </bookmark>
+  <bookmark href="http://hattrickportal.pro/Default.aspx" id="273">
+    <title>Hattrick Portal</title>
+  </bookmark>
+  <bookmark href="http://wiki.hattrick.org/Main_Page" id="274">
+    <title>Hattrick Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.hattrick-youthclub.org/" id="275">
+    <title>Hattrick Youthclub</title>
+  </bookmark>
+  <bookmark href="http://users.telenet.be/addy.taillieu1/alles.html" id="276">
+    <title>Hattrick-FAQ</title>
+  </bookmark>
+  <bookmark href="http://www.databased.at/hattrick/x-ray/?starter=network" id="277">
+    <title>hattriX-Ray</title>
+  </bookmark>
+  <bookmark href="http://gathering.tweakers.net/forum/list_messages/1589025" id="278">
+    <title>Het Hattrick (Online Voetbal Management) topic deel 69 - Strategy Games - GoT</title>
+  </bookmark>
+  <bookmark href="http://www.foxtrick.org/" id="279">
+    <title>Home | FoxTrick</title>
+  </bookmark>
+  <bookmark href="http://www.ht-flagtools.org/" id="280">
+    <title>HT Flagtools</title>
+  </bookmark>
+  <bookmark href="http://htdog-mikehell.rhcloud.com/ht-dog/" id="281">
+    <title>HT-Dog (Hattrick - Disarmer Of Giants) » Hattrick - The original online football manager game tool</title>
+  </bookmark>
+  <bookmark href="http://www.ht-tools.eu/" id="282">
+    <title>HT-Tools</title>
+  </bookmark>
+  <bookmark href="http://www.ht-world.org/" id="283">
+    <title>HT-World.org - Global tracker</title>
+  </bookmark>
+  <bookmark href="http://htev.org/" id="284">
+    <title>HTEV</title>
+  </bookmark>
+  <bookmark href="http://www.maptrick.org/" id="285">
+    <title>Maptrick</title>
+  </bookmark>
+  <bookmark href="https://mercattrick.com/" id="286">
+    <title>Mercattrick</title>
+  </bookmark>
+  <bookmark href="http://psicotsi.mozdev.org/" id="287">
+    <title>mozdev.org - psicotsi: index</title>
+  </bookmark>
+  <bookmark href="http://ht-box.ru/index.php" id="288">
+    <title>Toolbox for Hattrick Game</title>
+  </bookmark>
+  <bookmark href="http://www.lokesoftware.dk/ham/hamtpestats.cfm?Skill=1" id="289">
+    <title>TPE Stats</title>
+  </bookmark>
+</folder>
+<folder id="290">
+  <title>League of Legends</title>
+  <bookmark href="https://nethackwiki.com/wiki/Main_Page" id="291">
+    <title>NetHackWiki, the NetHack wiki</title>
+  </bookmark>
+  <bookmark href="http://www.mobafire.com/" id="292">
+    <title>League of Legends Strategy Build Guides :: LoL Strategy Building Tool by MOBAFire</title>
+  </bookmark>
+  <bookmark href="http://leaguecraft.com/" id="293">
+    <title>Leaguecraft</title>
+  </bookmark>
+  <bookmark href="http://www.leagueoflegends.com/" id="294">
+    <title>League of Legends</title>
+  </bookmark>
+</folder>
+<folder id="295">
+  <title>Monkey Island</title>
+  <bookmark href="http://www.scummbar.com/" id="296">
+    <title>The Monkey Island SCUMM Bar - www.scummbar.com</title>
+  </bookmark>
+  <bookmark href="http://www.miwiki.net/Main_Page" id="297">
+    <title>Monkey Island wiki</title>
+  </bookmark>
+</folder>
+<folder id="298">
+  <title>Nintendo Switch</title>
+  <bookmark href="https://www.dekudeals.com/" id="299">
+    <title>Deku Deals - Nintendo Switch price tracking and wishlist notifications</title>
+  </bookmark>
+</folder>
+<folder id="300">
+  <title>Quake</title>
+  <bookmark href="http://www.quakelive.com/#home" id="301">
+    <title>Quake Live</title>
+  </bookmark>
+</folder>
+<folder id="302">
+  <title>Roguelikes</title>
+  <bookmark href="http://brogue.roguelikelike.com/" id="303">
+    <title>WebBrogue</title>
+  </bookmark>
+  <bookmark href="http://forums.chronosoft.com/viewforum.php?f=2" id="304">
+    <title>Rogue Touch - ChronoSoft</title>
+  </bookmark>
+  <bookmark href="http://forums.chronosoft.com/viewtopic.php?t=112" id="305">
+    <title>Rogue Touch Strategies - ChronoSoft</title>
+  </bookmark>
+  <bookmark href="https://blog.roguetemple.com/" id="306">
+    <title>Temple of The Roguelike – Preserving the spirit of classic roguelikes</title>
+  </bookmark>
+  <bookmark href="https://rlgallery.org/" id="307">
+    <title>Roguelike Gallery</title>
+  </bookmark>
+  <bookmark href="https://www.roguebasin.com/index.php?title=Main_Page" id="308">
+    <title>RogueBasin</title>
+  </bookmark>
+  <bookmark href="http://crawl.develz.org/" id="309">
+    <title>Dungeon Crawl Stone Soup</title>
+  </bookmark>
+  <folder id="310">
+    <title>Nethack</title>
+    <bookmark href="https://www.hardfought.org/userdata/T/ToneHack/nethack/ToneHack.nhrc" id="313">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://github.com/NullCGT/Dotfiles/blob/main/nethack/3.7/.nethackrc" id="314">
+      <title>Dotfiles/nethack/3.7/.nethackrc at main · NullCGT/Dotfiles · GitHub</title>
+    </bookmark>
+    <bookmark href="https://www.hardfought.org/nethack/" id="315">
+      <title>NetHack «  Hardfought</title>
+    </bookmark>
+    <bookmark href="https://www.nethack.org/" id="316">
+      <title>NetHack 3.6.7: NetHack Home Page</title>
+    </bookmark>
+    <bookmark href="https://www.nethack.org/v367/Guidebook.html" id="317">
+      <title>NetHack 3.6.7: Guidebook for NetHack 3.6</title>
+    </bookmark>
+    <bookmark href="https://nl.reddit.com/r/nethack/" id="318">
+      <title>NetHack Strategy, Tips, Misc. Help</title>
+    </bookmark>
+    <bookmark href="https://nethackwiki.com/wiki/Standard_strategy" id="319">
+      <title>NetHack Wiki (Standard Strategy)</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://the-spoiler.com/ADVENTURE/Computer.systems/rogue.2.html" id="311">
+    <title>Rogue: The Dungeons of Doom  walkthrough - solution</title>
+  </bookmark>
+  <bookmark href="http://brogue.createforumhosting.com/" id="312">
+    <title>Brogue • Index page</title>
+  </bookmark>
+  <bookmark href="http://dffd.wimbli.com/" id="320">
+    <title>Dwarf Fortress File Depot</title>
+  </bookmark>
+  <bookmark href="http://code.google.com/p/dwarftherapist/" id="321">
+    <title>dwarftherapist</title>
+  </bookmark>
+</folder>
+<folder id="322">
+  <title>Super Mario Kart</title>
+  <bookmark href="http://www.mariokart64.com/smk/" id="323">
+    <title>Super Mario Kart Time Trial World Records Site</title>
+  </bookmark>
+</folder>
+<folder id="324">
+  <title>World of Warcraft</title>
+  <bookmark href="https://www.wowhead.com/" id="325">
+    <title>Wowhead</title>
+  </bookmark>
+  <bookmark href="https://wow.gamepedia.com/Wowpedia" id="326">
+    <title>Wowpedia</title>
+  </bookmark>
+  <bookmark href="https://www.icy-veins.com/" id="327">
+    <title>Icy Veins</title>
+  </bookmark>
+  <bookmark href="https://www.curseforge.com/wow/addons" id="328">
+    <title>Addons - World of Warcraft - CurseForge</title>
   </bookmark>
 </folder>
 </xbel>
