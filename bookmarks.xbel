@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :221: for Floccus bookmark sync browser extension -->
+<!--- highestId :223: for Floccus bookmark sync browser extension -->
 
+<folder id="222">
+  <title>SNES</title>
+  <bookmark href="http://snesaday.com/" id="223">
+    <title>SNES A Day</title>
+  </bookmark>
+</folder>
 </xbel>
