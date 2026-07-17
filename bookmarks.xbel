@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :204: for Floccus bookmark sync browser extension -->
+<!--- highestId :221: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Books</title>
@@ -224,6 +224,45 @@
 </folder>
 <folder id="74">
   <title>Grogu</title>
+  <bookmark href="https://www.heyjude.blog/posts/deploy-hugo-to-cloudflare/" id="83">
+    <title>Build a Blog with Hugo and Deploy it to Cloudflare Pages | Heyjude&apos;s Blog</title>
+  </bookmark>
+  <folder id="87">
+    <title>DBT</title>
+    <bookmark href="https://www.diabotical.com/" id="88">
+      <title>Diabotical.com</title>
+    </bookmark>
+    <bookmark href="https://www.kickstarter.com/projects/84288219/diabotical-by-the-gd-studio/description" id="89">
+      <title>Diabotical | Kickstarter</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/Diabotical/" id="90">
+      <title>Diabotical | Reddit</title>
+    </bookmark>
+    <bookmark href="https://trello.com/b/0AfjvyGH/diabotical" id="91">
+      <title>Diabotical | Trello</title>
+    </bookmark>
+    <bookmark href="https://twitter.com/diabotical/" id="92">
+      <title>Diabotical | Twitter</title>
+    </bookmark>
+    <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="93">
+      <title>Diabotical | Wiki</title>
+    </bookmark>
+    <bookmark href="https://diaboticaldistrict.com/" id="94">
+      <title>Diabotical District</title>
+    </bookmark>
+    <bookmark href="https://www.twitch.tv/thegdstudio/" id="95">
+      <title>The GD Studio | Twitch</title>
+    </bookmark>
+    <bookmark href="https://eggdevil.gg/" id="96">
+      <title>eggdevil.com | HUDS, configs, media, etc</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/TheGDStudio" id="97">
+      <title>The GD Studio | YouTube</title>
+    </bookmark>
+    <bookmark href="http://www.esreality.com/" id="98">
+      <title>ESReality.com</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://www.simplehomelab.com/" id="75">
     <title>SimpleHomelab | Simplifying Homelabs, One Step at a Time! (previously SmartHomeBeginner)</title>
   </bookmark>
@@ -249,9 +288,6 @@
     <title>Jackett</title>
   </bookmark>
 </folder>
-<bookmark href="https://www.heyjude.blog/posts/deploy-hugo-to-cloudflare/" id="83">
-  <title>Build a Blog with Hugo and Deploy it to Cloudflare Pages | Heyjude&apos;s Blog</title>
-</bookmark>
 <bookmark href="https://rpgcodex.net/" id="84">
   <title>rpg codex &gt; doesn&apos;t scale to your level</title>
 </bookmark>
@@ -261,42 +297,6 @@
 <bookmark href="https://crpgadventures.blogspot.com/" id="86">
   <title>CRPG Adventures</title>
 </bookmark>
-<folder id="87">
-  <title>DBT</title>
-  <bookmark href="https://www.diabotical.com/" id="88">
-    <title>Diabotical.com</title>
-  </bookmark>
-  <bookmark href="https://www.kickstarter.com/projects/84288219/diabotical-by-the-gd-studio/description" id="89">
-    <title>Diabotical | Kickstarter</title>
-  </bookmark>
-  <bookmark href="https://www.reddit.com/r/Diabotical/" id="90">
-    <title>Diabotical | Reddit</title>
-  </bookmark>
-  <bookmark href="https://trello.com/b/0AfjvyGH/diabotical" id="91">
-    <title>Diabotical | Trello</title>
-  </bookmark>
-  <bookmark href="https://twitter.com/diabotical/" id="92">
-    <title>Diabotical | Twitter</title>
-  </bookmark>
-  <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="93">
-    <title>Diabotical | Wiki </title>
-  </bookmark>
-  <bookmark href="https://diaboticaldistrict.com/" id="94">
-    <title>Diabotical District</title>
-  </bookmark>
-  <bookmark href="https://www.twitch.tv/thegdstudio/" id="95">
-    <title>The GD Studio | Twitch</title>
-  </bookmark>
-  <bookmark href="https://eggdevil.gg/" id="96">
-    <title>eggdevil.com | HUDS, configs, media, etc</title>
-  </bookmark>
-  <bookmark href="https://www.youtube.com/TheGDStudio" id="97">
-    <title>The GD Studio | YouTube</title>
-  </bookmark>
-  <bookmark href="http://www.esreality.com/" id="98">
-    <title>ESReality.com</title>
-  </bookmark>
-</folder>
 <folder id="99">
   <title>Dwarf Fortress</title>
   <bookmark href="http://dwarf.lendemaindeveille.com/index.php/Main_Page" id="103">
@@ -543,55 +543,55 @@
 <bookmark href="http://forums.civfanatics.com/showthread.php?t=354019" id="180">
   <title>[BTS] Better BUG AI - Civilization Fanatics&apos; Forums</title>
 </bookmark>
-<bookmark href="http://dragonage.gulbsoft.org/doku.php" id="181">
+<bookmark href="http://dragonage.gulbsoft.org/doku.php" id="205">
   <title>Dragon Age: Origins - The Missing Manual &gt;&gt; Welcome</title>
 </bookmark>
-<bookmark href="http://www.f1time.com/" id="182">
+<bookmark href="http://www.f1time.com/" id="206">
   <title>F1TIME.COM - Free Formula 1 Management Game</title>
 </bookmark>
-<bookmark href="https://fmpr0.com/" id="183">
+<bookmark href="https://fmpr0.com/" id="207">
   <title>FM 2020 Updates by Pr0</title>
 </bookmark>
-<bookmark href="http://community_gamesection.online-urbanus.be/" id="184">
+<bookmark href="http://community_gamesection.online-urbanus.be/" id="208">
   <title>Game Section Community Forums</title>
 </bookmark>
-<bookmark href="http://www.guildwarsguru.com/" id="185">
+<bookmark href="http://www.guildwarsguru.com/" id="209">
   <title>Guild Wars Guru</title>
 </bookmark>
-<bookmark href="http://www.guildwars.net/" id="186">
+<bookmark href="http://www.guildwars.net/" id="210">
   <title>GuildWars.com</title>
 </bookmark>
-<bookmark href="http://216.86.149.248/wiki/Main_Page" id="187">
+<bookmark href="http://216.86.149.248/wiki/Main_Page" id="211">
   <title>GuildWiki</title>
 </bookmark>
-<bookmark href="http://www.ibpdownloads.com/" id="188">
+<bookmark href="http://www.ibpdownloads.com/" id="212">
   <title>ibpArcade Downloads</title>
 </bookmark>
-<bookmark href="http://www.ircnet.ee/nethack/MAG-r343.html" id="189">
+<bookmark href="http://www.ircnet.ee/nethack/MAG-r343.html" id="213">
   <title>Maniac&amp;#39;s Ascension Guide</title>
 </bookmark>
-<bookmark href="http://mayday.w.staszic.waw.pl/index.htm" id="190">
+<bookmark href="http://mayday.w.staszic.waw.pl/index.htm" id="214">
   <title>May Green</title>
 </bookmark>
-<bookmark href="http://www.metacritics.com/" id="191">
+<bookmark href="http://www.metacritics.com/" id="215">
   <title>Metacritic.com</title>
 </bookmark>
-<bookmark href="http://www.miwiki.net/Main_Page" id="192">
+<bookmark href="http://www.miwiki.net/Main_Page" id="216">
   <title>Monkey Island wiki</title>
 </bookmark>
-<bookmark href="http://www.nfohump.com/index.php" id="193">
+<bookmark href="http://www.nfohump.com/index.php" id="217">
   <title>NFOHump</title>
 </bookmark>
-<bookmark href="http://www.playdota.com/" id="194">
+<bookmark href="http://www.playdota.com/" id="218">
   <title>Official DotA Website</title>
 </bookmark>
-<bookmark href="https://ql.syncore.org/" id="195">
+<bookmark href="https://ql.syncore.org/" id="219">
   <title>ql.syncore.org | Server Browser</title>
 </bookmark>
-<bookmark href="http://www.quakelive.com/#home" id="196">
+<bookmark href="http://www.quakelive.com/#home" id="220">
   <title>Quake Live</title>
 </bookmark>
-<bookmark href="https://www.passion4fm.com/football-manager-guide-squad-analysis/" id="197">
+<bookmark href="https://www.passion4fm.com/football-manager-guide-squad-analysis/" id="221">
   <title>Squad Analysis in Football Manager • Passion4FM</title>
 </bookmark>
 <bookmark href="http://www.mariokart64.com/smk/" id="198">
