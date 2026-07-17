@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :123: for Floccus bookmark sync browser extension -->
+<!--- highestId :140: for Floccus bookmark sync browser extension -->
 
+<folder id="124">
+  <title>MM+</title>
+  <bookmark href="https://www.reddit.com/r/MiyooMini/" id="125">
+    <title>/r/MiyooMini/</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/snes/" id="126">
+    <title>/r/snes/</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/Roms/" id="127">
+    <title>/Roms/</title>
+  </bookmark>
+  <bookmark href="https://www.bol.com/nl/nl/l/mini-pc-s/16348/21586/?view=TILES&amp;bltgh=09d577ba-644b-467c-8a6e-66c4977c2a44.g.i.QueryContextHook&amp;12194=100-200&amp;page=1&amp;sort=rating1&amp;delivery=TOMORROW" id="128">
+    <title>€ 100 - € 200 Mini PC met 16 GB RAM geheugen kopen? Kijk snel! | bol</title>
+  </bookmark>
+  <bookmark href="https://zeldawiki.wiki/wiki/Category:Characters" id="129">
+    <title>Category:Characters - Zelda Wiki</title>
+  </bookmark>
+  <bookmark href="https://archive.org/details/done-set-three_202501" id="130">
+    <title>Done Set 3 : Free Download, Borrow, and Streaming : Internet Archive</title>
+  </bookmark>
+  <bookmark href="https://nl.reddit.com/r/MiyooMini/comments/1ihuyjp/done_set_3_is_now_available/" id="131">
+    <title>Done Set 3 is Now Available: MiyooMini</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/document/d/1d1a0RYYmB9ap07hahSQd8gAhUXJ7L3MOKnNvN-LasXQ/edit?tab=t.0" id="132">
+    <title>Done Set 3 Starter Guide</title>
+  </bookmark>
+  <bookmark href="https://alexlumper.notion.site/Done-Set-Addon-194421686ba64b998f6aaa9928b6ae6c" id="133">
+    <title>Done Set Addon</title>
+  </bookmark>
+  <bookmark href="https://miyooguide.fireblend.com/" id="134">
+    <title>https://miyooguide.fireblend.com/</title>
+  </bookmark>
+  <bookmark href="https://nl.reddit.com/r/MiyooMini/comments/199a4rd/long_overdue_here_is_my_comprehensive_starter/" id="135">
+    <title>Long overdue, here is my comprehensive starter guide video for the Miyoo Mini Plus: MiyooMini</title>
+  </bookmark>
+  <bookmark href="https://retrogamecorps.com/2022/05/15/miyoo-mini-v2-guide/" id="136">
+    <title>Miyoo Mini (and Miyoo Mini Plus) Starter Guide – Retro Game Corps</title>
+  </bookmark>
+  <bookmark href="https://nl.reddit.com/r/MiyooMini/comments/1350q6o/miyoo_mini_plus_starter_guide/" id="137">
+    <title>Miyoo Mini Plus Starter Guide: MiyooMini</title>
+  </bookmark>
+  <bookmark href="https://r-roms.github.io/" id="138">
+    <title>r/ROMs Megathread</title>
+  </bookmark>
+  <bookmark href="https://retroachievements.org/" id="139">
+    <title>RetroAchievements · RetroAchievements</title>
+  </bookmark>
+  <bookmark href="https://onionui.github.io/" id="140">
+    <title>Welcome | Onion</title>
+  </bookmark>
+</folder>
 <folder id="1">
   <title>DBT</title>
   <bookmark href="https://www.diabotical.com/" id="6">
