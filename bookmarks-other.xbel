@@ -30,9 +30,6 @@
     </folder>
     <folder id="32">
       <title>Dionique</title>
-      <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="56">
-        <title>Implementation Service Request </title>
-      </bookmark>
       <bookmark href="https://rh.enn.ericsson.net/login" id="57">
         <title>Request Handler</title>
       </bookmark>
@@ -41,6 +38,9 @@
       </bookmark>
       <bookmark href="https://github.com/janeczku/calibre-web/wiki/Setup-Reverse-Proxy#traefik-260-example-kobo-sync-fix-enabled" id="59">
         <title>Setup Reverse Proxy · janeczku/calibre-web Wiki · GitHub</title>
+      </bookmark>
+      <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="56">
+        <title>Implementation Service Request</title>
       </bookmark>
     </folder>
     <folder id="33">
@@ -342,9 +342,6 @@
     </folder>
     <folder id="42">
       <title>Dionique</title>
-      <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="74">
-        <title>Implementation Service Request </title>
-      </bookmark>
       <bookmark href="https://rh.enn.ericsson.net/login" id="75">
         <title>Request Handler</title>
       </bookmark>
@@ -353,6 +350,9 @@
       </bookmark>
       <bookmark href="https://github.com/janeczku/calibre-web/wiki/Setup-Reverse-Proxy#traefik-260-example-kobo-sync-fix-enabled" id="77">
         <title>Setup Reverse Proxy · janeczku/calibre-web Wiki · GitHub</title>
+      </bookmark>
+      <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="74">
+        <title>Implementation Service Request</title>
       </bookmark>
     </folder>
     <folder id="43">
@@ -641,9 +641,6 @@
   <bookmark href="https://www.data-to-viz.com/" id="213">
     <title>From data to Viz | Find the graphic you need</title>
   </bookmark>
-  <bookmark href="https://www.kaggle.com/" id="214">
-    <title> Kaggle</title>
-  </bookmark>
   <bookmark href="https://pythontutor.com/" id="215">
     <title>Python Tutor - Python Online Compiler with Visual AI Help</title>
   </bookmark>
@@ -658,6 +655,9 @@
   </bookmark>
   <bookmark href="https://books.goalkicker.com/PythonBook/" id="219">
     <title>Free Python Programming Book</title>
+  </bookmark>
+  <bookmark href="https://www.kaggle.com/" id="214">
+    <title>Kaggle</title>
   </bookmark>
 </folder>
 <folder id="220">
@@ -729,7 +729,7 @@
     <title>Request Handler</title>
   </bookmark>
   <bookmark href="https://isr.enn.ericsson.net/default.aspx" id="243">
-    <title>Implementation Service Request </title>
+    <title>Implementation Service Request</title>
   </bookmark>
 </folder>
 <folder id="244">
@@ -749,9 +749,6 @@
   <bookmark href="https://twitter.com/diabotical/" id="249">
     <title>Diabotical | Twitter</title>
   </bookmark>
-  <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="250">
-    <title>Diabotical | Wiki </title>
-  </bookmark>
   <bookmark href="https://diaboticaldistrict.com/" id="251">
     <title>Diabotical District</title>
   </bookmark>
@@ -767,6 +764,9 @@
   <bookmark href="http://www.esreality.com/" id="255">
     <title>ESReality.com</title>
   </bookmark>
+  <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="250">
+    <title>Diabotical | Wiki</title>
+  </bookmark>
 </folder>
 <folder id="256">
   <title>DDD</title>
@@ -776,11 +776,11 @@
 </folder>
 <folder id="258">
   <title>Ericsson</title>
-  <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="259">
-    <title>Symantec VIP ID Protection Self Service Portal </title>
-  </bookmark>
   <bookmark href="https://internal.ericsson.com/book/34601/terms-employment?unit=31169770" id="260">
     <title>People Portal ENN - Internal</title>
+  </bookmark>
+  <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="259">
+    <title>Symantec VIP ID Protection Self Service Portal</title>
   </bookmark>
 </folder>
 <folder id="261">
@@ -2135,9 +2135,6 @@
   <bookmark href="https://www.goodreads.com/work/editions/6760952" id="692">
     <title>Goodreads | Editions of Under the Dome by Stephen King</title>
   </bookmark>
-  <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="693">
-    <title>PRS NRO Services </title>
-  </bookmark>
   <bookmark href="http://spielverlagerung.com/" id="704">
     <title>Spielverlagerung.com | German football analysis - in English!</title>
   </bookmark>
@@ -2225,6 +2222,9 @@
       <title>BoardGameGeek | Gaming Unplugged Since 2000</title>
     </bookmark>
   </folder>
+  <bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="693">
+    <title>PRS NRO Services</title>
+  </bookmark>
 </folder>
 <folder id="742">
   <title>Imported from Firefox</title>
@@ -2335,11 +2335,11 @@
   </folder>
   <folder id="749">
     <title>Ericsson</title>
-    <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="774">
-      <title>Symantec VIP ID Protection Self Service Portal </title>
-    </bookmark>
     <bookmark href="https://internal.ericsson.com/book/34601/terms-employment?unit=31169770" id="775">
       <title>People Portal ENN - Internal</title>
+    </bookmark>
+    <bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="774">
+      <title>Symantec VIP ID Protection Self Service Portal</title>
     </bookmark>
   </folder>
   <folder id="750">
@@ -2919,9 +2919,6 @@
 <bookmark href="https://www.goodreads.com/work/editions/6760952" id="972">
   <title>Goodreads | Editions of Under the Dome by Stephen King</title>
 </bookmark>
-<bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="973">
-  <title>PRS NRO Services </title>
-</bookmark>
 <bookmark href="http://spielverlagerung.com/" id="974">
   <title>Spielverlagerung.com | German football analysis - in English!</title>
 </bookmark>
@@ -2961,4 +2958,7 @@
 <folder id="986">
   <title>C26</title>
 </folder>
+<bookmark href="https://prscms.ericsson.net/rwce/home.aspx" id="973">
+  <title>PRS NRO Services</title>
+</bookmark>
 </xbel>
