@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :4: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://www.zwijsen.nl/in/thuislessen" id="1">
+  <title>Thuislessen | Zwijsen</title>
+</bookmark>
+<bookmark href="https://www.avi-lezen.nl/site/" id="2">
+  <title>AVI-lezen</title>
+</bookmark>
+<bookmark href="https://talk.parro.com/" id="3">
+  <title>Parro</title>
+</bookmark>
+<bookmark href="https://mik-spelenderwijs.ouderportaal.nl/auth/login" id="4">
+  <title>OuderPortaal</title>
+</bookmark>
+</xbel>
