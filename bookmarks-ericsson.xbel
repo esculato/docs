@@ -71,44 +71,20 @@
 </folder>
 <folder id="5">
   <title>ST</title>
-  <bookmark href="https://cpistore.internal.ericsson.com/" id="84">
-    <title>CPI Store</title>
-  </bookmark>
-  <bookmark href="https://uat.connected-operations.ericsson.net/getting-started" id="85">
-    <title>ECO Web (UAT)</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/sites/ID-WesternEurope235/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FID%2DWesternEurope235%2FShared%20Documents%2FGeneral%2FID%20%2D%20Vodafone%20Ziggo%20RAN%2F03%20ToBe%20Solution%2FCU%20documents" id="86">
-    <title>ID - Western Europe - CU documents - Alle documenten</title>
-  </bookmark>
-  <bookmark href="https://acc.siterollout.ericsson.net/site-projects" id="87">
-    <title>ESR</title>
-  </bookmark>
-  <bookmark href="https://ericssonnam.sharepoint.com/sites/IntelligentDeploymentDataGovernance2?web=1&amp;xsdata=MDV8MDJ8bWFyYy5tZWV4QGVyaWNzc29uLmNvbXxmNjUxMDMzOGFhNGE0ZDA2NDkxNDA4ZGQ2Yjk5YzI1ZXw5MmU4NGNlYmZiZmQ0N2FiYmU1MjA4MGM2Yjg3OTUzZnwwfDB8NjM4Nzg1MDMwMzEzNDYzODQ2fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=bmxrOHA5SEF6SlhoMHNET1lRbEtDd2lqUXJURS9Obmd5MGZZb29QRHZBaz0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTc5MjguMjA0NjgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D" id="88">
-    <title>Intelligent Deployment Data Governance Site - Home</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4027EBDF-4D35-4C82-9639-B0EF5652BDE0%7D&amp;file=Issue%20List.xlsx&amp;action=default&amp;mobileredirect=true" id="89">
-    <title>Issue List.xlsx</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BEEE0FC37-C613-4CDA-BBA7-50AE14C76001%7D&amp;file=List%20of%20Standard%20Global%20Planning%20Object%20(Sitetracker)%20(5).xlsx&amp;wdLOR=c1901B94F-3D38-4A8F-9BC9-876D2186CFD3&amp;action=default&amp;mobileredirect=true" id="90">
-    <title>List of Standard Global Planning Object (Sitetracker) (5).xlsx</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;wdLOR=cB7191A62-C0F2-437D-9F36-8EC40084A1FD&amp;action=default&amp;mobileredirect=true" id="91">
-    <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BCD5BAE48-109B-4D5C-B366-EACF41F0AA82%7D&amp;file=SiteTracker%20structuring.xlsx&amp;wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;action=default&amp;mobileredirect=true" id="92">
-    <title>SiteTracker structuring.xlsx</title>
-  </bookmark>
-  <bookmark href="https://sitetracker-ericssonglobal-eu01--eufull.sandbox.my.site.com/s/login/?ec=302&amp;startURL=%2Fs%2F" id="93">
-    <title>ST /// Customer portal ASP</title>
-  </bookmark>
   <bookmark href="https://cpistore.internal.ericsson.com/" id="26">
     <title>CPI Store</title>
+  </bookmark>
+  <bookmark href="https://connected-operations.ericsson.net/getting-started" id="41">
+    <title>ECO Web</title>
   </bookmark>
   <bookmark href="https://uat.connected-operations.ericsson.net/getting-started" id="27">
     <title>ECO Web (UAT)</title>
   </bookmark>
   <bookmark href="https://acc.siterollout.ericsson.net/site-projects" id="28">
     <title>ESR</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/ID-WesternEurope235/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FID%2DWesternEurope235%2FShared%20Documents%2FGeneral%2FID%20%2D%20Vodafone%20Ziggo%20RAN%2F03%20ToBe%20Solution%2FCU%20documents" id="86">
+    <title>ID - Western Europe - CU documents - Alle documenten</title>
   </bookmark>
   <bookmark href="https://ericsson.sharepoint.com/sites/ID-WesternEurope235" id="29">
     <title>ID - Western Europe - Home</title>
@@ -122,10 +98,16 @@
   <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4027EBDF-4D35-4C82-9639-B0EF5652BDE0%7D&amp;file=Issue%20List.xlsx&amp;action=default&amp;mobileredirect=true" id="32">
     <title>Issue List.xlsx</title>
   </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BEEE0FC37-C613-4CDA-BBA7-50AE14C76001%7D&amp;file=List%20of%20Standard%20Global%20Planning%20Object%20(Sitetracker)%20(5).xlsx&amp;wdLOR=c1901B94F-3D38-4A8F-9BC9-876D2186CFD3&amp;action=default&amp;mobileredirect=true" id="38">
+    <title>List of Standard Global Planning Object (Sitetracker) (5).xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4B729FE5-A621-40EE-A02C-352092EC67EE%7D&amp;file=Pilot%20Findings.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=1A43DCE0-1A46-4881-B0ED-27464CFF68AF&amp;wdLOR=cB272C8D3-4F7F-4653-9841-2E7D2E7CF935" id="39">
+    <title>Pilot Findings</title>
+  </bookmark>
   <bookmark href="https://ericsson.sharepoint.com/sites/B2Bglobalframeworkportfolio/Shared%20Documents/Forms/AllItems.aspx?e=5%3A3656e63c199745daba63c8df9e77fa70&amp;sharingv2=true&amp;fromShare=true&amp;at=9&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg2MjMuMjAyNjYiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&amp;CID=58c9a4a1%2D004f%2Dc000%2Dedd3%2D919c2a09135d&amp;cidOR=SPO&amp;FolderCTID=0x01200064420D5A43AE214880A4F566615EFC5D&amp;id=%2Fsites%2FB2Bglobalframeworkportfolio%2FShared%20Documents%2FGeneral%2FID%20B2B%20Swimlane%2FID%20B2B%20%2D%20Projects%2FID%20B2B%20%2D%20EMEA%20%2D%20Netherlands%20Vodafone%20Ziggo%20%20%2D%20Sitetracker" id="33">
     <title>SAN B2B global framework portfolio - Documents</title>
   </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;wdLOR=cB7191A62-C0F2-437D-9F36-8EC40084A1FD&amp;action=default&amp;mobileredirect=true" id="34">
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="40">
     <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
   </bookmark>
   <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BCD5BAE48-109B-4D5C-B366-EACF41F0AA82%7D&amp;file=SiteTracker%20structuring.xlsx&amp;wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;action=default&amp;mobileredirect=true" id="35">
@@ -136,18 +118,6 @@
   </bookmark>
   <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BC623901C-E252-4218-8D52-3E9975A051C1%7D&amp;file=ToDo%20list.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="37">
     <title>ToDo list.xlsx</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BEEE0FC37-C613-4CDA-BBA7-50AE14C76001%7D&amp;file=List%20of%20Standard%20Global%20Planning%20Object%20(Sitetracker)%20(5).xlsx&amp;wdLOR=c1901B94F-3D38-4A8F-9BC9-876D2186CFD3&amp;action=default&amp;mobileredirect=true" id="38">
-    <title>List of Standard Global Planning Object (Sitetracker) (5).xlsx</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4B729FE5-A621-40EE-A02C-352092EC67EE%7D&amp;file=Pilot%20Findings.xlsx&amp;action=default&amp;mobileredirect=true&amp;CID=1A43DCE0-1A46-4881-B0ED-27464CFF68AF&amp;wdLOR=cB272C8D3-4F7F-4653-9841-2E7D2E7CF935" id="39">
-    <title>Pilot Findings</title>
-  </bookmark>
-  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;action=default&amp;mobileredirect=true&amp;DefaultItemOpen=1" id="40">
-    <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
-  </bookmark>
-  <bookmark href="https://connected-operations.ericsson.net/getting-started" id="41">
-    <title>ECO Web</title>
   </bookmark>
 </folder>
 <bookmark href="https://ericoll.internal.ericsson.com/sites/VFE_Spring/Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FVFE%5FSpring%2FDocuments%2F02%2E%20Project%20Preparation%20Stage%2F10%2E%20Process%20Management&amp;FolderCTID=0x012000B61AE097565D734BB4994CCA318BB7C6&amp;View=%7bD5E77762-4CE5-4C14-B599-DE86C9A66972%7d" id="42">
