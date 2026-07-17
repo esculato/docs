@@ -69,47 +69,38 @@
     <title>WHO | World Health Organization</title>
   </bookmark>
 </folder>
-<folder id="4">
-  <title>DDD</title>
-  <folder id="83">
-    <title>ST</title>
-    <bookmark href="https://cpistore.internal.ericsson.com/" id="84">
-      <title>CPI Store</title>
-    </bookmark>
-    <bookmark href="https://uat.connected-operations.ericsson.net/getting-started" id="85">
-      <title>ECO Web (UAT)</title>
-    </bookmark>
-    <bookmark href="https://ericsson.sharepoint.com/sites/ID-WesternEurope235/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FID%2DWesternEurope235%2FShared%20Documents%2FGeneral%2FID%20%2D%20Vodafone%20Ziggo%20RAN%2F03%20ToBe%20Solution%2FCU%20documents" id="86">
-      <title>ID - Western Europe - CU documents - Alle documenten</title>
-    </bookmark>
-    <bookmark href="https://acc.siterollout.ericsson.net/site-projects" id="87">
-      <title>ESR</title>
-    </bookmark>
-    <bookmark href="https://ericssonnam.sharepoint.com/sites/IntelligentDeploymentDataGovernance2?web=1&amp;xsdata=MDV8MDJ8bWFyYy5tZWV4QGVyaWNzc29uLmNvbXxmNjUxMDMzOGFhNGE0ZDA2NDkxNDA4ZGQ2Yjk5YzI1ZXw5MmU4NGNlYmZiZmQ0N2FiYmU1MjA4MGM2Yjg3OTUzZnwwfDB8NjM4Nzg1MDMwMzEzNDYzODQ2fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=bmxrOHA5SEF6SlhoMHNET1lRbEtDd2lqUXJURS9Obmd5MGZZb29QRHZBaz0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTc5MjguMjA0NjgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D" id="88">
-      <title>Intelligent Deployment Data Governance Site - Home</title>
-    </bookmark>
-    <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4027EBDF-4D35-4C82-9639-B0EF5652BDE0%7D&amp;file=Issue%20List.xlsx&amp;action=default&amp;mobileredirect=true" id="89">
-      <title>Issue List.xlsx</title>
-    </bookmark>
-    <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BEEE0FC37-C613-4CDA-BBA7-50AE14C76001%7D&amp;file=List%20of%20Standard%20Global%20Planning%20Object%20(Sitetracker)%20(5).xlsx&amp;wdLOR=c1901B94F-3D38-4A8F-9BC9-876D2186CFD3&amp;action=default&amp;mobileredirect=true" id="90">
-      <title>List of Standard Global Planning Object (Sitetracker) (5).xlsx</title>
-    </bookmark>
-    <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;wdLOR=cB7191A62-C0F2-437D-9F36-8EC40084A1FD&amp;action=default&amp;mobileredirect=true" id="91">
-      <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
-    </bookmark>
-    <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BCD5BAE48-109B-4D5C-B366-EACF41F0AA82%7D&amp;file=SiteTracker%20structuring.xlsx&amp;wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;action=default&amp;mobileredirect=true" id="92">
-      <title>SiteTracker structuring.xlsx</title>
-    </bookmark>
-    <bookmark href="https://sitetracker-ericssonglobal-eu01--eufull.sandbox.my.site.com/s/login/?ec=302&amp;startURL=%2Fs%2F" id="93">
-      <title>ST /// Customer portal ASP</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://eteamproject.internal.ericsson.com/secure/Dashboard.jspa" id="25">
-    <title>System Dashboard - eTeamProject (Jira)</title>
-  </bookmark>
-</folder>
 <folder id="5">
   <title>ST</title>
+  <bookmark href="https://cpistore.internal.ericsson.com/" id="84">
+    <title>CPI Store</title>
+  </bookmark>
+  <bookmark href="https://uat.connected-operations.ericsson.net/getting-started" id="85">
+    <title>ECO Web (UAT)</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/sites/ID-WesternEurope235/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FID%2DWesternEurope235%2FShared%20Documents%2FGeneral%2FID%20%2D%20Vodafone%20Ziggo%20RAN%2F03%20ToBe%20Solution%2FCU%20documents" id="86">
+    <title>ID - Western Europe - CU documents - Alle documenten</title>
+  </bookmark>
+  <bookmark href="https://acc.siterollout.ericsson.net/site-projects" id="87">
+    <title>ESR</title>
+  </bookmark>
+  <bookmark href="https://ericssonnam.sharepoint.com/sites/IntelligentDeploymentDataGovernance2?web=1&amp;xsdata=MDV8MDJ8bWFyYy5tZWV4QGVyaWNzc29uLmNvbXxmNjUxMDMzOGFhNGE0ZDA2NDkxNDA4ZGQ2Yjk5YzI1ZXw5MmU4NGNlYmZiZmQ0N2FiYmU1MjA4MGM2Yjg3OTUzZnwwfDB8NjM4Nzg1MDMwMzEzNDYzODQ2fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&amp;sdata=bmxrOHA5SEF6SlhoMHNET1lRbEtDd2lqUXJURS9Obmd5MGZZb29QRHZBaz0%3d&amp;clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTc5MjguMjA0NjgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D" id="88">
+    <title>Intelligent Deployment Data Governance Site - Home</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/IntelligentDeploymentVFZ/_layouts/15/Doc.aspx?sourcedoc=%7B4027EBDF-4D35-4C82-9639-B0EF5652BDE0%7D&amp;file=Issue%20List.xlsx&amp;action=default&amp;mobileredirect=true" id="89">
+    <title>Issue List.xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BEEE0FC37-C613-4CDA-BBA7-50AE14C76001%7D&amp;file=List%20of%20Standard%20Global%20Planning%20Object%20(Sitetracker)%20(5).xlsx&amp;wdLOR=c1901B94F-3D38-4A8F-9BC9-876D2186CFD3&amp;action=default&amp;mobileredirect=true" id="90">
+    <title>List of Standard Global Planning Object (Sitetracker) (5).xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7B8FC4E2A3-3AC7-43CB-8CC9-AFB745384F6D%7D&amp;file=SiteTracker%20Entry%20Form%20(STEF)%20-%20VFZ%20RAN.xlsx&amp;wdLOR=cB7191A62-C0F2-437D-9F36-8EC40084A1FD&amp;action=default&amp;mobileredirect=true" id="91">
+    <title>SiteTracker Entry Form (STEF) - VFZ RAN.xlsx</title>
+  </bookmark>
+  <bookmark href="https://ericsson.sharepoint.com/:x:/r/sites/ID-WesternEurope235/_layouts/15/Doc.aspx?sourcedoc=%7BCD5BAE48-109B-4D5C-B366-EACF41F0AA82%7D&amp;file=SiteTracker%20structuring.xlsx&amp;wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&amp;action=default&amp;mobileredirect=true" id="92">
+    <title>SiteTracker structuring.xlsx</title>
+  </bookmark>
+  <bookmark href="https://sitetracker-ericssonglobal-eu01--eufull.sandbox.my.site.com/s/login/?ec=302&amp;startURL=%2Fs%2F" id="93">
+    <title>ST /// Customer portal ASP</title>
+  </bookmark>
   <bookmark href="https://cpistore.internal.ericsson.com/" id="26">
     <title>CPI Store</title>
   </bookmark>
@@ -258,9 +249,6 @@
 <bookmark href="https://myaccount.ericsson.net/sa" id="74">
   <title>Strong Authentication</title>
 </bookmark>
-<bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="75">
-  <title>Symantec VIP ID Protection Self Service Portal</title>
-</bookmark>
 <bookmark href="http://www.antenna-theory.com/" id="76">
   <title>The Antenna Theory Website</title>
 </bookmark>
@@ -282,4 +270,7 @@
     <title>EriSite Development</title>
   </bookmark>
 </folder>
+<bookmark href="https://ssp.vip.symantec.com/vipssp/home.v" id="75">
+  <title>Symantec VIP ID Protection Self Service Portal</title>
+</bookmark>
 </xbel>
