@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :156: for Floccus bookmark sync browser extension -->
+<!--- highestId :157: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>DBT</title>
@@ -36,7 +36,7 @@
     <title>ESReality.com</title>
   </bookmark>
   <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="38">
-    <title>Diabotical | Wiki </title>
+    <title>Diabotical | Wiki</title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -248,6 +248,9 @@
 </folder>
 <folder id="65">
   <title>Roguelikes</title>
+  <bookmark href="https://www.resetera.com/threads/i-played-130-roguelikes-so-you-dont-have-to.1324564/" id="157">
+    <title>I played 130 Roguelikes, so you dont have to* | ResetEra</title>
+  </bookmark>
   <bookmark href="http://www.adomgb.info/adomgb-toc.html" id="155">
     <title>ADOM Guidebook - Table of Contents</title>
   </bookmark>
