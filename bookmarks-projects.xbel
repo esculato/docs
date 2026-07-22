@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :84: for Floccus bookmark sync browser extension -->
+<!--- highestId :85: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Books</title>
+  <bookmark href="https://www.figma.com/board/hScNoWonDzTMTrpzUhNqzR/Story-Finder?node-id=1-229" id="85">
+    <title>Story-Finder – FigJam</title>
+  </bookmark>
   <bookmark href="http://www.shelfari.com/" id="6">
     <title>Shelfari</title>
   </bookmark>
