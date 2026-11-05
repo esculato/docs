@@ -3,18 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :128: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://www.zwijsen.nl/in/thuislessen" id="1">
-  <title>Thuislessen | Zwijsen</title>
-</bookmark>
-<bookmark href="https://www.avi-lezen.nl/site/" id="2">
-  <title>AVI-lezen</title>
-</bookmark>
-<bookmark href="https://talk.parro.com/" id="3">
-  <title>Parro</title>
-</bookmark>
-<bookmark href="https://mik-spelenderwijs.ouderportaal.nl/auth/login" id="4">
-  <title>OuderPortaal</title>
-</bookmark>
 <folder id="5">
   <title>Games</title>
   <bookmark href="https://www.heyjude.blog/posts/deploy-hugo-to-cloudflare/" id="6">
@@ -47,7 +35,7 @@
       <title>Diabotical | Twitter</title>
     </bookmark>
     <bookmark href="https://diabotical.fandom.com/wiki/Diabotical" id="21">
-      <title>Diabotical | Wiki </title>
+      <title>Diabotical | Wiki</title>
     </bookmark>
     <bookmark href="https://diaboticaldistrict.com/" id="22">
       <title>Diabotical District</title>
